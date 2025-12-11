@@ -1,10 +1,10 @@
-📘 Medical Insurance Cost Prediction — Data Science Project
+# 📘 Medical Insurance Cost Prediction — Data Science Project
 This repository contains a complete beginner-friendly machine learning workflow to predict medical insurance charges based on demographic and lifestyle factors such as age, BMI, region, smoking status, and more.
 
 The project includes data exploration, cleaning, feature engineering, model training, evaluation, and exporting predictions.
 
 
-📁 Project Structure
+## 📁 Project Structure
 .
 ├── main.ipynb            # Main Jupyter Notebook containing the full workflow
 ├── insurance.csv         # Original dataset
@@ -12,11 +12,11 @@ The project includes data exploration, cleaning, feature engineering, model trai
 └── y_test.xlsx           # Actual test values used for evaluation
 
 
-🎯 Project Objective
+## 🎯 Project Objective
 To build a machine learning model that predicts insurance charges using regression techniques while understanding the contributing factors through exploratory data analysis (EDA).
 
 
-✅ Workflow OverviewWorkflow Overview
+## ✅ Workflow OverviewWorkflow Overview
 
 1. Importing Libraries
 
@@ -134,7 +134,7 @@ Predictions are compared with actual values using:
 
 
 
-📊 Dataset Description
+## 📊 Dataset Description
 
 The dataset contains the following features:
 
@@ -149,7 +149,7 @@ charges	      Medical insurance cost (target variable)
 
 
 
-📌 Future Improvements
+## 📌 Future Improvements
 Add hyperparameter tuning (GridSearchCV / RandomForest / XGBoost)
 Add model interpretability (SHAP, permutation importance)
 Add a Streamlit web app for interactive predictions
@@ -157,5 +157,5 @@ Create modular Python scripts (train.py, predict.py)
 Add Docker support
 
 
-💡 Author
+## 💡 Author
 Shoaib — Data Science & Python Enthusiast
