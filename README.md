@@ -6,10 +6,12 @@ The project includes data exploration, cleaning, feature engineering, model trai
 
 ## 📁 Project Structure
 
+```
 ├── main.ipynb             Main Jupyter Notebook containing the full workflow
 ├── insurance.csv          Original dataset
 ├── predictions.xlsx       Model predictions exported to Excel
 └── y_test.xlsx            Actual test values used for evaluation
+```
 
 
 ## 🎯 Project Objective
